@@ -2,4 +2,4 @@
 A Deep Q-learning Network that works in the Cartpole environment.
 GitHub work in progress.
 
-More info will be released in future, stay tuned.
+More info will be released in the future, stay tuned.
