@@ -2,10 +2,10 @@
 A Deep Q-learning Network that works in the Cartpole environment.
 
 ## Installation 
-To run the code make sure the gym environment is installed by using: 'pip install gym' and 'pip install gym[all]'
+To run the code make sure the gym environment is installed by using: `pip install gym` and `pip install gym[all]`
 
 ## Execution
-After everything is set up correctly the code can be executed with the following command: python Cartpole.py --[implementation] [hyperparameter1] .... [hyperparameterN] 
+After everything is set up correctly the code can be executed with the following command: `python Cartpole.py --[implementation] [hyperparameter1] .... [hyperparameterN]`
 
 Here 'implementation' can be either two things:
 
